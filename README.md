@@ -28,7 +28,7 @@ A layered family of purpose-built packages, all surfaced through `aihydro-tools`
 
 | Package | Role | Links |
 |---------|------|-------|
-| [`aihydro-tools`](https://github.com/AI-Hydro/aihydro-tools) | MCP server · 144 validated tools · AI agent surface | [PyPI](https://pypi.org/project/aihydro-tools/) |
+| [`aihydro-tools`](https://github.com/AI-Hydro/aihydro-tools) | MCP server · 144 validated tools · AI agent surface | [PyPI](https://pypi.org/project/aihydro-tools/) · [Zenodo](https://doi.org/10.5281/zenodo.19597589) |
 | `aihydro-modelling` | *Coming soon* | — |
 | [`aihydro-watershed`](https://github.com/AI-Hydro/aihydro-watershed) | Basin delineation + hydrological signatures · anywhere on Earth | [PyPI](https://pypi.org/project/aihydro-watershed/) · [Zenodo](https://doi.org/10.5281/zenodo.20823440) |
 | `aihydro-lsh` | *Coming soon* | — |
