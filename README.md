@@ -30,10 +30,10 @@ A layered family of purpose-built packages, all surfaced through `aihydro-tools`
 |---------|------|-------|
 | [`aihydro-tools`](https://github.com/AI-Hydro/aihydro-tools) | MCP server · 144 validated tools · AI agent surface | [PyPI](https://pypi.org/project/aihydro-tools/) |
 | `aihydro-modelling` | *Coming soon* | — |
-| [`aihydro-watershed`](https://github.com/AI-Hydro/aihydro-watershed) | Basin delineation + hydrological signatures · anywhere on Earth | [PyPI](https://pypi.org/project/aihydro-watershed/) |
+| [`aihydro-watershed`](https://github.com/AI-Hydro/aihydro-watershed) | Basin delineation + hydrological signatures · anywhere on Earth | [PyPI](https://pypi.org/project/aihydro-watershed/) · [Zenodo](https://doi.org/10.5281/zenodo.20823440) |
 | `aihydro-lsh` | *Coming soon* | — |
-| [`aihydro-data`](https://github.com/AI-Hydro/AIhydro-data) | Global data router · 54 products · 8 regions | [PyPI](https://pypi.org/project/aihydro-data/) |
-| [`aihydro-core`](https://github.com/AI-Hydro/aihydro-core) | Zero-dep substrate · HydroResult contract · bootstrap CI | [PyPI](https://pypi.org/project/aihydro-core/) |
+| [`aihydro-data`](https://github.com/AI-Hydro/AIhydro-data) | Global data router · 54 products · 8 regions | [PyPI](https://pypi.org/project/aihydro-data/) · [Zenodo](https://doi.org/10.5281/zenodo.20823443) |
+| [`aihydro-core`](https://github.com/AI-Hydro/aihydro-core) | Zero-dep substrate · HydroResult contract · bootstrap CI | [PyPI](https://pypi.org/project/aihydro-core/) · [Zenodo](https://doi.org/10.5281/zenodo.20823444) |
 | [`camels-attrs`](https://github.com/AI-Hydro/camels-attrs) | CAMELS-US attributes for any USGS gauge | [PyPI](https://pypi.org/project/camels-attrs/) · [Zenodo](https://doi.org/10.5281/zenodo.17315038) |
 | [`pygeoglim`](https://github.com/galib9690/pygeoglim) | Global geology attributes · GLiM/GLHYMPS · area-weighted | [PyPI](https://pypi.org/project/pygeoglim/) · [Zenodo](https://doi.org/10.5281/zenodo.17314746) |
 
