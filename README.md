@@ -30,7 +30,7 @@ A layered family of purpose-built packages, all surfaced through `aihydro-tools`
 |---------|------|-------|
 | [`aihydro-tools`](https://github.com/AI-Hydro/aihydro-tools) | MCP server · 144 validated tools · AI agent surface | [PyPI](https://pypi.org/project/aihydro-tools/) |
 | `aihydro-modelling` | *Coming soon* | — |
-| [`aihydro-watershed`](https://github.com/AI-Hydro/aihydro-watershed) | Basin delineation + hydrological signatures · anywhere on Earth | — |
+| [`aihydro-watershed`](https://github.com/AI-Hydro/aihydro-watershed) | Basin delineation + hydrological signatures · anywhere on Earth | [PyPI](https://pypi.org/project/aihydro-watershed/) |
 | `aihydro-lsh` | *Coming soon* | — |
 | [`aihydro-data`](https://github.com/AI-Hydro/AIhydro-data) | Global data router · 54 products · 8 regions | [PyPI](https://pypi.org/project/aihydro-data/) |
 | [`aihydro-core`](https://github.com/AI-Hydro/aihydro-core) | Zero-dep substrate · HydroResult contract · bootstrap CI | [PyPI](https://pypi.org/project/aihydro-core/) |
