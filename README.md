@@ -9,6 +9,10 @@
     <a href="https://pypi.org/project/camels-attrs/"><img src="https://img.shields.io/pypi/v/camels-attrs?label=camels-attrs&color=3775a9&style=flat-square" /></a>
     &nbsp;
     <a href="https://pypi.org/project/pygeoglim/"><img src="https://img.shields.io/pypi/v/pygeoglim?label=pygeoglim&color=3775a9&style=flat-square" /></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/mohd-galib-6b28aa1b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    &nbsp;
+    <a href="https://x.com/gh9690"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white" /></a>
   </p>
 </p>
 
