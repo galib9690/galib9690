@@ -42,8 +42,7 @@ A layered family of purpose-built packages, all surfaced through `aihydro-tools`
 ## Other Active Projects
 
 - **[swatplus-builder](https://github.com/AI-Hydro/swatplus-builder)** — agent-native SWAT+ model construction with 7-gate claim governance
-- **HYDRO-ATOMS** — differentiable compositional HRU modelling (JAX/Taichi)
-- **HYDROVERSE / CAMELS-NEXT** — 9,008-basin global attribute dataset + XAI arc
+- **PhD research in progress** — two science pillars in hydrological modelling and global datasets (publishing 2026–2027)
 
 ---
 
